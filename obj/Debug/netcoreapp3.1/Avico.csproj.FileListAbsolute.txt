@@ -1,0 +1,80 @@
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/appsettings.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.deps.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.runtimeconfig.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.runtimeconfig.dev.json
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.dll
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.pdb
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Avico.xml
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/adrien/Téléchargements/Avico/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.csprojAssemblyReference.cache
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/staticwebassets/Avico.StaticWebAssets.Manifest.cache
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/staticwebassets/Avico.StaticWebAssets.xml
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.MvcApplicationPartsAssemblyInfo.cs
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.MvcApplicationPartsAssemblyInfo.cache
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.AssemblyInfoInputs.cache
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.AssemblyInfo.cs
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.RazorTargetAssemblyInfo.cache
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.csproj.CopyComplete
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.dll
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.xml
+/home/adrien/Téléchargements/Avico/obj/Debug/netcoreapp3.1/Avico.pdb
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\appsettings.json
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.exe
+C:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.deps.json
+C:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.runtimeconfig.json
+C:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.runtimeconfig.dev.json
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.dll
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.pdb
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Avico.xml
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\3iL\Bachelor\Archi appli\Avico\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.csprojAssemblyReference.cache
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\staticwebassets\Avico.StaticWebAssets.Manifest.cache
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\staticwebassets\Avico.StaticWebAssets.xml
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.MvcApplicationPartsAssemblyInfo.cs
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.MvcApplicationPartsAssemblyInfo.cache
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.AssemblyInfoInputs.cache
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.AssemblyInfo.cs
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.RazorTargetAssemblyInfo.cache
+C:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.csproj.CopyComplete
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.dll
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.xml
+c:\3iL\Bachelor\Archi appli\Avico\obj\Debug\netcoreapp3.1\Avico.pdb
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.exe
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.deps.json
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.runtimeconfig.json
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.runtimeconfig.dev.json
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.dll
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.pdb
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Avico.xml
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lab\personnal\api-rest-c\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.csprojAssemblyReference.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.AssemblyInfoInputs.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.AssemblyInfo.cs
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.csproj.CoreCompileInputs.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.MvcApplicationPartsAssemblyInfo.cs
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.MvcApplicationPartsAssemblyInfo.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\staticwebassets\Avico.StaticWebAssets.Manifest.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\staticwebassets\Avico.StaticWebAssets.xml
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\scopedcss\bundle\Avico.styles.css
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.RazorTargetAssemblyInfo.cache
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.csproj.CopyComplete
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.dll
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.xml
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.pdb
+D:\Lab\personnal\api-rest-c\obj\Debug\netcoreapp3.1\Avico.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Avico</name>
+    </assembly>
+    <members>
+        <member name="T:DocLogicielleAPI.Controllers.VoituresController">
+            <summary>
+            Voitures Controllers
+            </summary>
+        </member>
+        <member name="M:DocLogicielleAPI.Controllers.VoituresController.Get">
+            <summary>
+            Récupération de la liste des voitures.
+            </summary>
+            <returns>Liste des voitures</returns>
+        </member>
+        <member name="M:DocLogicielleAPI.Controllers.VoituresController.GetById(System.Int32)">
+            <summary>
+            Récupération d'une voiture spécifique
+            </summary>
+            <param name="id">Identifiant de la voiture</param>
+            <returns>Voiture spécifique</returns>
+        </member>
+        <member name="M:DocLogicielleAPI.Controllers.VoituresController.Post(DocLogicielleAPI.DTO.Voiture)">
+            <summary>
+            Ajout d'une voiture
+            </summary>
+            <param name="voiture"></param>
+            <returns>Voiture créé</returns>
+        </member>
+        <member name="M:DocLogicielleAPI.Controllers.VoituresController.Put(System.Int32,DocLogicielleAPI.DTO.Voiture)">
+            <summary>
+            Modification d'une voiture
+            </summary>
+            /// <param name="id">Identifiant de la voiture</param>
+            <param name="voiture">Voiture modifiée</param>
+        </member>
+        <member name="M:DocLogicielleAPI.Controllers.VoituresController.Delete(System.Int32)">
+            <summary>
+            Supression d'une voiture
+            </summary>
+            <param name="id">Identifiant de la voiture</param>
+        </member>
+        <member name="T:DocLogicielleAPI.DTO.Voiture">
+            <summary>
+            Voiture Model
+            </summary>
+        </member>
+    </members>
+</doc>
